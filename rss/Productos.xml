@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
+ 
+<channel>
+      <title>Feed RSS de Fotografía</title>
+      <description>Últimos productos de fotografía</description>
+
+       <!-- 1º ítem -->
+  <item>
+    <title>Cámara Réflex Profesional</title>
+    <description>Cámara réflex profesional de última generación, ideal para capturar imágenes de alta calidad en cualquier situación.</description>
+    <pubDate>Viernes, 12 Mar 2024 08:00:00 </pubDate>
+    <category>Cámara</category>
+    <image>
+      <url>https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/08/21/16926502279891.jpg</url>
+      <title>Cámara Réflex</title>
+    </image>
+  </item>
+  
+  <!-- 2º ítem -->
+  <item>
+    <title>Trípode portátil</title>
+    <description>Trípode ligero y resistente, perfecto para sesiones fotográficas en exteriores y viajes.</description>
+    <pubDate>Jueves, 11 Mar 2024 10:00:00 </pubDate>
+    <category>Accesorio</category>
+    <image>
+      <url>https://elcomercio.pe/resizer/4D6R82N2aMzVIKhR3cAn975yuGQ=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg</url>
+      <title>Trípode portátil</title>
+    </image>
+  </item>
+  
+  <!-- 3º ítem -->
+  <item>
+    <title>Curso online de edición fotográfica</title>
+    <description>Mejora tus habilidades de edición fotográfica con este curso online impartido por expertos en el campo.</description>
+    <pubDate>Miércoles, 10 Mar 2024 12:00:00 </pubDate>
+    <category>Cursos</category>
+    <image>
+      <url>https://www.toulouselautrec.edu.pe/sites/default/files/imagenes/cursos/toulouse-cursos-foto-integral-desktop-23.jpg</url>
+      <title>Curso de edición fotográfica</title>
+    </image>
+  </item>
+  
+</channel>
+
+  </rss>

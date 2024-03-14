@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
+
+<channel>
+      <title>Feed RSS de Hawk</title>
+      <description>Últimas noticias y novedades sobre fotografía</description>
+      <link>https://tusitio.com/rss</link>
+
+      <!-- 1º ítem -->
+  <item>
+    <title>Próximo taller de fotografía nocturna</title>
+    <description>Descubre los detalles del próximo taller de fotografía nocturna y mejora tus habilidades en la captura de imágenes bajo la luz de la luna.</description>
+    <pubDate>Viernes, 15 Mar 2024 09:00:00 </pubDate>
+    <category>Talleres</category>
+    <image>
+      <url>https://andanafoto.com/wp-content/uploads/2017/09/Taller-de-fotograf%C3%ADa-intantil-y-juvenil-andanafoto-3.jpg</url>
+      <title>Imagen del taller</title>
+    </image>
+  </item>
+  
+  <!-- 2º ítem -->
+  <item>
+    <title>Entrevista exclusiva con fotógrafos profesionales</title>
+    <description>Lee la entrevista exclusiva con fotógrafos profesionales y descubre los secretos detrás de sus imágenes más impactantes.</description>
+    <pubDate>Jueves, 14 Mar 2024 10:30:00 </pubDate>
+    <category>Entrevistas</category>
+    <image>
+      <url>https://i.blogs.es/463eff/cartier/500_333.jpg</url>
+      <title>Entrevista exclusiva</title>
+    </image>
+  </item>
+  
+  <!-- 3º ítem -->
+  <item>
+    <title>Consejos para mejorar tus fotografías de paisajes</title>
+    <description>Descubre algunos consejos útiles para mejorar tus habilidades en la fotografía de paisajes y capturar impresionantes vistas naturales.</description>
+    <pubDate>Miércoles, 13 Mar 2024 11:30:00 </pubDate>
+    <category>Consejos</category>
+    <image>
+      <url>https://rbgescuela.com/wp-content/uploads/consejos-para-fotografos-principiantes-1.jpg</url>
+      <title>Consejos para fotografía de paisajes</title>
+    </image>
+  </item>
+  
+</channel>
+  </rss>
